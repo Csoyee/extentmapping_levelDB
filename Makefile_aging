@@ -1,0 +1,2 @@
+aging: aging.cc
+	g++ -o aging aging.cc -lleveldb

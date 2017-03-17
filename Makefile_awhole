@@ -1,0 +1,2 @@
+awhole:awhole.cc
+	g++ -o awhole awhole.cc -lleveldb

@@ -1,0 +1,8 @@
+test:main.o extent.o random.o
+	gcc -o test main.o extent.o random.o
+main.o:main.h mftl.h random.h main.c
+	gcc -w -c main.c
+extent.o:main.h mftl.h extent.c
+	gcc -c extent.c
+random.o:random.h random.c
+	gcc -c random.c
