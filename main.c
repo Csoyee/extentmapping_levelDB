@@ -1,22 +1,3 @@
-/*-------------------------------------------------------------------------
- *
- * main.cpp
- *	  main file
- *
- * The license is a free non-exclusive, non-transferable license to reproduce, 
-colorscheme evening
- * use, modify and display the source code version of the Software, with or 
- * without modifications solely for non-commercial research, educational or 
- * evaluation purposes. The license does not entitle Licensee to technical support, 
- * telephone assistance, enhancements or updates to the Software. All rights, title 
- * to and ownership interest in the Software, including all intellectual property rights 
- * therein shall remain in HKUST.
- *
- * IDENTIFICATION
- *	  FDTree: main.cpp,2010/04/06 yinan
- *
- *-------------------------------------------------------------------------
- */
 #include "mftl.h"
 #include "main.h"
 #include "random.h"
